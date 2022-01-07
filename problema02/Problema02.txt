@@ -1,0 +1,15 @@
+1.  Inicio
+2.  funcion principal()
+3.      arregloUni()
+4. fin funcion principal 
+5. funcion arregloUni() 
+6.      (arregloCadena(5),x(20)[{a-z},{A-Z},{BS})
+7.      Para(indice<--0, indice < 5, 1) haga
+8.          Escribir "Ingrese la cadena para la posición " + indice +":"
+9.          Leer arregloCadena(indice)
+10.     Fin_Para
+11.     Para(indice<--0, indice < 5, 1) haga
+12.         Escribir "La cadena Ingresada en la  posición " + indice +" es:" + arregloCadena(indice)
+13.     Fin_Para
+14. fin funcion arregloUni
+15. Fin
